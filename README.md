@@ -315,6 +315,4 @@ The app will open in your browser at **`http://localhost:8501`**.
 
 This project is released under the [MIT License](LICENSE).
 
----
 
-<p align="center">Made with ❤️ and a passion for motorsport & machine learning</p>
